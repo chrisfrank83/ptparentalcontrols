@@ -1,0 +1,11 @@
+{
+  "safe": [
+    "https://docs.google.com",
+    "https://docs.new",
+    "https://sheets.new",
+    "https://www.foxnews.com/privacy-policy"
+  ],
+  "unsafe": [
+    "https://www.foxnews.com"
+  ]
+}
