@@ -2,9 +2,8 @@
   "safe": [],
   "unsafe": [
     "https://www.pornhub.com/",
-    "https://onlyfans.com/"
-  ],
-  "pending": [
+    "https://onlyfans.com/",
     "https://www.playboy.com/"
-  ]
+  ],
+  "pending": []
 }
