@@ -1,12 +1,12 @@
 {
-  "safe": [],
+  "safe": [
+    "https://www.google.com/"
+  ],
   "unsafe": [
     "https://www.pornhub.com/",
     "https://onlyfans.com/",
     "https://www.playboy.com/",
     "https://www.ufc.com/"
   ],
-  "pending": [
-    "https://www.google.com/"
-  ]
+  "pending": []
 }
