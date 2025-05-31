@@ -6,9 +6,8 @@
     "https://accounts.google.com"
   ],
   "unsafe": [
+    "https://search.brave.com/search?q=free+illlegal+pictures&source=desktop",
     "https://www.pee.com/"
   ],
-  "pending": [
-    "https://search.brave.com/search?q=free+illlegal+pictures&source=desktop"
-  ]
+  "pending": []
 }
