@@ -6,7 +6,8 @@
     "https://accounts.google.com",
     "https://search.brave.com/search?q=weirdcore&source=newtab",
     "https://search.brave.com/search?q=weirdcore+spaces&source=newtab",
-    "https://search.brave.com/images?q=weirdcore scary&spellcheck=0&source=alteredQuery"
+    "https://search.brave.com/images?q=weirdcore scary&spellcheck=0&source=alteredQuery",
+    "https://search.brave.com/search?q=weirdcore+scary&source=newtab&summary=1&conversation=af15861f4cdffb3339143e"
   ],
   "unsafe": [
     "https://search.brave.com/search?q=free+illlegal+pictures&source=desktop",
@@ -14,7 +15,6 @@
   ],
   "pending": [
     "https://search.brave.com/images?q=weirdcore%20scary&spellcheck=0&source=alteredQuery",
-    "https://search.brave.com/images?q=weirdcore%20scary",
-    "https://search.brave.com/search?q=weirdcore+scary&source=newtab&summary=1&conversation=af15861f4cdffb3339143e"
+    "https://search.brave.com/images?q=weirdcore%20scary"
   ]
 }
